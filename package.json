@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/brupinzon.lwc-l2z4ld7w",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve qtjEfBl6UI5RyvEyiIOO --open"
+  }
+}
